@@ -1,0 +1,18 @@
+<svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="360" fill="#151A21"/>
+  <path d="M0 250H900" stroke="#66D9EF" stroke-opacity="0.18"/>
+  <path d="M80 250L210 120H360L480 250H80Z" stroke="#66D9EF" stroke-opacity="0.36"/>
+  <path d="M420 250L540 90H700L820 250H420Z" stroke="#F92672" stroke-opacity="0.34"/>
+  <circle cx="170" cy="106" r="72" fill="url(#cyanBlur)" fill-opacity="0.4"/>
+  <circle cx="716" cy="92" r="84" fill="url(#pinkBlur)" fill-opacity="0.34"/>
+  <defs>
+    <radialGradient id="cyanBlur">
+      <stop stop-color="#66D9EF"/>
+      <stop offset="1" stop-color="#66D9EF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pinkBlur">
+      <stop stop-color="#F92672"/>
+      <stop offset="1" stop-color="#F92672" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

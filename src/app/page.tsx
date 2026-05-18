@@ -1,10 +1,10 @@
 import { SiteShell } from "@/components/layout/site-shell";
-import { Hero } from "@/components/sections/hero";
+import { DashboardHome } from "@/components/sections/dashboard-home";
 
 export default function Home() {
   return (
     <SiteShell>
-      <Hero />
+      <DashboardHome />
     </SiteShell>
   );
 }

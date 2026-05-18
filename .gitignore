@@ -78,6 +78,13 @@ web_modules/
 .next
 out
 
+# Next.js / deployment tooling
+.vercel
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
 # Nuxt.js build / generate output
 .nuxt
 dist

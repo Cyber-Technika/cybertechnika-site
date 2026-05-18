@@ -1,0 +1,23 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#101418"/>
+  <circle cx="230" cy="180" r="240" fill="url(#cyanGlow)" fill-opacity="0.7"/>
+  <circle cx="970" cy="170" r="220" fill="url(#pinkGlow)" fill-opacity="0.56"/>
+  <path d="M0 621C177 571 257 514 392 545C547 580 679 737 1200 562V800H0V621Z" fill="url(#floorGlow)"/>
+  <path d="M122 614L368 245H471L304 614H122Z" fill="#151A21" stroke="#66D9EF" stroke-opacity="0.28"/>
+  <path d="M407 614L615 179H736L600 614H407Z" fill="#151A21" stroke="#AE81FF" stroke-opacity="0.3"/>
+  <path d="M690 614L835 314H1030L914 614H690Z" fill="#151A21" stroke="#F92672" stroke-opacity="0.28"/>
+  <defs>
+    <radialGradient id="cyanGlow">
+      <stop stop-color="#66D9EF"/>
+      <stop offset="1" stop-color="#66D9EF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pinkGlow">
+      <stop stop-color="#F92672"/>
+      <stop offset="1" stop-color="#F92672" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="floorGlow" x1="600" y1="520" x2="600" y2="800">
+      <stop stop-color="#AE81FF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#AE81FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
